@@ -1,2 +1,2 @@
 # TypeScript_Aurelia
-A Aurelia-TypeScript project setup for VS Code
+Aurelia-TypeScript project setup for VS Code
